@@ -1,60 +1,61 @@
-<!-- HERO SECTION -->
-## 👨‍💻 About Me
+<!-- ===================== HERO ===================== -->
 
-<p style="font-family: 'Poppins', sans-serif; font-size: 15px;">
-Hi! I'm <b>Nehara Sandeepa Silva</b>, a <b>16-year-old developer & designer</b> passionate about building
-<strong>modern, clean, and user-friendly digital experiences</strong>.
-I work with <b>Web & App Development, UI/UX, Graphic Design, and Logo Design</b>.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F9B007&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nehara+Sandeepa+Silva;Web+%26+App+Developer;Creative+Designer+%26+Builder;Turning+Ideas+Into+Real+Products" />
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="38%" align="center">
+
+<img src="my_photo.png" width="300" alt="Nehara Illustration"/>
+
 <br/><br/>
-I love turning ideas into real products using <b>HTML, CSS, JavaScript, Flutter, React & Python</b>.
-My main focus is <b>performance, creativity, and real-world problem solving</b>—especially in
-<strong>educational platforms</strong>.
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=nehara-s-silva&label=PROFILE+VIEWS&color=f9b007&style=flat"/>
+
+</td>
+
+<td width="62%">
+
+## 🧑‍🚀 Who Am I?
+
+I’m **Nehara Sandeepa Silva**, a **16-year-old Developer & Designer**  
+focused on building **modern, high-performance, and visually clean digital products**.
+
+I combine:
+- ⚙️ **Engineering mindset**
+- 🎨 **Strong design sense**
+- 🚀 **Startup & product thinking**
+
+to create **real-world solutions**, especially in **education & creative platforms**.
+
+> 🟡 *Code with logic*  
+> ⚫ *Design with purpose*  
+> 🔥 *Build for impact*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I’m Doing Now
-
-- 🌱 Learning **Advanced Web Development & App Publishing**
-- 🔨 Building **VORA – an educational platform**
-- 🎯 Goal: **Full-Stack Developer & Creative Designer**
-- ⚡ Fun fact: **I debug more than I sleep 😄**
-
----
-
-## 🧠 Skills & Tools
+## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,python,php,firebase,git,figma,ps,ai,unity,arduino,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,python,php,firebase,git,figma,ps,ai,bootstrap,unity,arduino&perline=8" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Animated)
+## 🚀 Current Mission
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehara-s-silva&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:neharasandeepa331@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/nehara-s-silva">
-    <img src="https://img.shields.io/badge/Support%20Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehara-s-silva&label=Profile%20Views&color=38BDF8&style=flat"/>
-</p>
-
----
-
-<h3 align="center">✨ “Build. Design. Learn. Repeat.” ✨</h3>
+```txt
+🌱 Learning     → Advanced Web, App & AI Systems
+🔨 Building     → VORA (Next-Gen Education Platform)
+🎯 Goal         → Full-Stack Developer & Creative Technologist
+⚡ Mindset      → Learn • Build • Improve • Repeat
